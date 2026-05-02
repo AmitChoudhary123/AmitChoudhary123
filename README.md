@@ -67,9 +67,8 @@ I am using GitHub as a structured brand portfolio to demonstrate:
 
 ## Connect
 
-- LinkedIn: add-your-linkedin-url
-- Blog / Website: add-your-blog-url
-- Email: add-your-email
+- LinkedIn: www.linkedin.com/in/amit-choudhary-637b633
+- Blog / Website: https://dharmaai.co.in/
 
 ## Portfolio note
 

@@ -2,16 +2,15 @@
 
 AI, GenAI, and Agentic AI delivery leader with 20+ years of enterprise experience across data science, architecture, consulting, and business transformation.
 
-I build practical open-source assets for teams moving from AI demos to governed production: enterprise-safe agent runtimes, agent evaluation harnesses, RAG quality controls, MLOps blueprints, and executive AI operating models.
+I build practical open-source assets and leadership playbooks for teams moving from AI demos to governed production: enterprise-safe agent runtimes, agent evaluation harnesses, RAG quality controls, MLOps blueprints, and executive AI operating models.
 
 ## Start Here
 
-These are the two projects I am actively shaping into useful community resources.
-
-| Project | Why developers and AI leaders should revisit it |
+| Project | Why it is useful |
 | --- | --- |
-| [enterprise-agent-forge](https://github.com/AmitChoudhary123/enterprise-agent-forge) | A scenario-driven enterprise agent runtime with tools, memory, policy gates, audit trails, CLI reports, governance docs, and extension paths. Useful for teams asking how to build agents safely, not just autonomously. |
-| [agent-eval-harness](https://github.com/AmitChoudhary123/agent-eval-harness) | A benchmark harness for comparing agents and RAG workflows using task success, evidence, latency, cost, approval compliance, safety, and rework. Useful for release readiness and model/provider comparisons. |
+| [enterprise-genai-leadership-playbook](https://github.com/AmitChoudhary123/enterprise-genai-leadership-playbook) | Executive field guide for GenAI, RAG, agentic AI, prompt engineering, context engineering, evaluation, governance, and operating models. Includes frameworks and reusable templates. |
+| [enterprise-agent-forge](https://github.com/AmitChoudhary123/enterprise-agent-forge) | Scenario-driven enterprise agent runtime with tools, memory, policy gates, audit trails, CLI reports, governance docs, and extension paths. |
+| [agent-eval-harness](https://github.com/AmitChoudhary123/agent-eval-harness) | Benchmark harness for comparing agents and RAG workflows using task success, evidence, latency, cost, approval compliance, safety, and rework. |
 
 ## Supporting Enterprise AI Portfolio
 
@@ -27,20 +26,22 @@ These are the two projects I am actively shaping into useful community resources
 
 - Enterprise AI / GenAI / Agentic AI delivery leadership
 - Business-outcome-first architecture and execution
+- Prompt engineering, context engineering, and RAG evaluation discipline
 - Production readiness: evaluation, observability, governance, and repeatability
 - Agentic AI with human accountability and auditability
-- Practical open-source tools that help teams make better AI delivery decisions
+- Practical open-source tools and playbooks that help teams make better AI delivery decisions
 
 ## Recommended pinned repositories
 
-1. [enterprise-agent-forge](https://github.com/AmitChoudhary123/enterprise-agent-forge)
-2. [agent-eval-harness](https://github.com/AmitChoudhary123/agent-eval-harness)
-3. [enterprise-rag-evaluation-platform](https://github.com/AmitChoudhary123/enterprise-rag-evaluation-platform)
+1. [enterprise-genai-leadership-playbook](https://github.com/AmitChoudhary123/enterprise-genai-leadership-playbook)
+2. [enterprise-agent-forge](https://github.com/AmitChoudhary123/enterprise-agent-forge)
+3. [agent-eval-harness](https://github.com/AmitChoudhary123/agent-eval-harness)
 
 ## Current open-source direction
 
-I am building toward a small ecosystem of enterprise AI tools:
+I am building toward a small ecosystem of enterprise AI assets:
 
+- Lead GenAI programs with clear frameworks and operating models
 - Forge agents with governance by design
 - Evaluate agents with transparent release-readiness metrics
 - Connect RAG quality, observability, and MLOps into one production story

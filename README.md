@@ -6,11 +6,13 @@ I focus on turning AI ideas into governed, measurable, production-oriented syste
 
 ## Flagship AI Portfolio
 
+Each flagship repository includes business framing, architecture docs, sample data, a runnable demo, tests, and GitHub Actions CI.
+
 | Repository | What it demonstrates |
 | --- | --- |
-| [enterprise-rag-evaluation-platform](https://github.com/AmitChoudhary123/enterprise-rag-evaluation-platform) | Production RAG architecture with grounding, citations, retrieval quality, and evaluation thinking. |
+| [enterprise-rag-evaluation-platform](https://github.com/AmitChoudhary123/enterprise-rag-evaluation-platform) | Production RAG architecture with retrieval, citations, grounding, and release-gate thinking. |
 | [agentic-ai-delivery-cockpit](https://github.com/AmitChoudhary123/agentic-ai-delivery-cockpit) | Agentic AI delivery governance, prioritization, human review, value tracking, and operating model. |
-| [ai-observability-control-plane](https://github.com/AmitChoudhary123/ai-observability-control-plane) | Reliability, latency, cost, quality, and regression control patterns for GenAI systems. |
+| [ai-observability-control-plane](https://github.com/AmitChoudhary123/ai-observability-control-plane) | Reliability, latency, cost, quality, and SLO patterns for GenAI systems. |
 | [mlops-blueprint-enterprise](https://github.com/AmitChoudhary123/mlops-blueprint-enterprise) | Enterprise MLOps lifecycle design from experimentation to governed model promotion. |
 | [genai-transformation-playbooks](https://github.com/AmitChoudhary123/genai-transformation-playbooks) | Executive GenAI use-case prioritization, ROI framing, adoption planning, and risk governance. |
 
@@ -24,7 +26,7 @@ I focus on turning AI ideas into governed, measurable, production-oriented syste
 
 ## What this GitHub is designed to show
 
-This profile is curated as a senior AI leadership portfolio, not a collection of tutorial projects. The repositories combine business case, architecture, starter implementation, tests, and roadmap so that both technical and executive audiences can see how I structure AI delivery.
+This profile is curated as a senior AI leadership portfolio, not a collection of tutorial projects. The repositories combine business case, architecture, runnable demos, tests, and roadmap so that both technical and executive audiences can see how I structure AI delivery.
 
 ## Core themes
 
@@ -42,7 +44,7 @@ This profile is curated as a senior AI leadership portfolio, not a collection of
 
 ## Tech and delivery stack
 
-Python, FastAPI, Pydantic, pandas, scikit-learn, RAG evaluation patterns, agent workflow design, MLOps concepts, GitHub-based delivery hygiene, and enterprise architecture documentation.
+Python, FastAPI, Pydantic, pandas, scikit-learn, RAG evaluation patterns, agent workflow design, MLOps concepts, GitHub Actions, and enterprise architecture documentation.
 
 ## Connect
 

@@ -1,75 +1,50 @@
 # Amit Choudhary
 
-AI Delivery Leader | GenAI & Agentic AI Strategist | Enterprise Data Science Practitioner
+AI, GenAI, and Agentic AI delivery leader with 20+ years of enterprise experience across data science, architecture, consulting, and business transformation.
 
-I build and lead enterprise AI, GenAI, and agentic AI solutions that solve business problems with measurable impact.
+I focus on turning AI ideas into governed, measurable, production-oriented systems: RAG platforms, agentic workflows, AI observability, MLOps, analytics modernization, and executive AI operating models.
 
-## About me
+## Flagship AI Portfolio
 
-- 20+ years in Data Science, AI delivery, and consulting
-- Focused on GenAI, Agentic AI, AI architecture, and enterprise transformation
-- Experienced in building AI programs for global clients and multi-stakeholder environments
-- Interested in practical AI systems, digital products, and thought leadership
+| Repository | What it demonstrates |
+| --- | --- |
+| [enterprise-rag-evaluation-platform](https://github.com/AmitChoudhary123/enterprise-rag-evaluation-platform) | Production RAG architecture with grounding, citations, retrieval quality, and evaluation thinking. |
+| [agentic-ai-delivery-cockpit](https://github.com/AmitChoudhary123/agentic-ai-delivery-cockpit) | Agentic AI delivery governance, prioritization, human review, value tracking, and operating model. |
+| [ai-observability-control-plane](https://github.com/AmitChoudhary123/ai-observability-control-plane) | Reliability, latency, cost, quality, and regression control patterns for GenAI systems. |
+| [mlops-blueprint-enterprise](https://github.com/AmitChoudhary123/mlops-blueprint-enterprise) | Enterprise MLOps lifecycle design from experimentation to governed model promotion. |
+| [genai-transformation-playbooks](https://github.com/AmitChoudhary123/genai-transformation-playbooks) | Executive GenAI use-case prioritization, ROI framing, adoption planning, and risk governance. |
 
-## What this GitHub will show
+## Positioning
 
-This profile is being structured as a portfolio of enterprise-grade repositories rather than ad hoc experiments.
+- Enterprise AI / GenAI / Agentic AI delivery leadership
+- Business-outcome-first architecture and execution
+- Strong data science and MLOps foundation
+- Production readiness: evaluation, observability, governance, and repeatability
+- Practical playbooks for scaling AI across teams and business domains
 
-Core themes:
-- Agentic AI for business workflows
-- RAG, evaluation, and governance
-- MLOps and enterprise deployment blueprints
-- Forecasting, decision intelligence, and customer analytics
-- Leadership playbooks for AI transformation
+## What this GitHub is designed to show
 
-## Featured repositories
+This profile is curated as a senior AI leadership portfolio, not a collection of tutorial projects. The repositories combine business case, architecture, starter implementation, tests, and roadmap so that both technical and executive audiences can see how I structure AI delivery.
 
-These are the repositories I am building and curating as part of my portfolio:
+## Core themes
 
-1. `agentic-ai-delivery-cockpit`
-2. `rag-governance-workbench`
-3. `mlops-blueprint-enterprise`
-4. `executive-ai-use-case-library`
-5. `forecasting-control-tower`
-6. `customer-intelligence-studio`
-7. `risk-fraud-anomaly-lab`
-8. `genai-evaluation-benchmark`
-9. `decision-intelligence-knowledge-graph`
-10. `ai-leadership-playbooks`
+- RAG, grounding, citations, and evaluation
+- Agentic AI workflow design and human-in-the-loop controls
+- AI observability, quality gates, cost, and latency management
+- MLOps, model governance, and analytics modernization
+- Executive AI transformation playbooks and portfolio governance
 
-## Areas of focus
+## Recommended pinned repositories
 
-- Enterprise AI strategy
-- LLM and RAG architecture
-- Agent orchestration and human-in-the-loop systems
-- Delivery governance and AI operating models
-- Applied machine learning and analytics modernization
+1. [enterprise-rag-evaluation-platform](https://github.com/AmitChoudhary123/enterprise-rag-evaluation-platform)
+2. [agentic-ai-delivery-cockpit](https://github.com/AmitChoudhary123/agentic-ai-delivery-cockpit)
+3. [ai-observability-control-plane](https://github.com/AmitChoudhary123/ai-observability-control-plane)
 
-## Tech stack
+## Tech and delivery stack
 
-- Python
-- FastAPI
-- Streamlit
-- LangGraph
-- LlamaIndex
-- MLflow
-- Docker
-- GitHub Actions
-- Cloud AI platforms
-
-## Current direction
-
-I am using GitHub as a structured brand portfolio to demonstrate:
-- technical depth,
-- architecture thinking,
-- business-first AI solutioning,
-- and leadership in modern AI delivery.
+Python, FastAPI, Pydantic, pandas, scikit-learn, RAG evaluation patterns, agent workflow design, MLOps concepts, GitHub-based delivery hygiene, and enterprise architecture documentation.
 
 ## Connect
 
-- LinkedIn: www.linkedin.com/in/amit-choudhary-637b633
-- Blog / Website: https://dharmaai.co.in/
-
-## Portfolio note
-
-This profile README appears on GitHub when the repository name exactly matches the username and the repository is public with a root `README.md` file.
+- LinkedIn: [linkedin.com/in/amit-choudhary-637b633](https://www.linkedin.com/in/amit-choudhary-637b633)
+- Website: [dharmaai.co.in](https://dharmaai.co.in/)

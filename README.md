@@ -37,6 +37,11 @@ I build practical open-source assets and leadership playbooks for teams moving f
 2. [enterprise-agent-forge](https://github.com/AmitChoudhary123/enterprise-agent-forge)
 3. [agent-eval-harness](https://github.com/AmitChoudhary123/agent-eval-harness)
 
+
+## Portfolio Roadmap
+
+I am curating this GitHub as a senior enterprise AI portfolio through June 2026. See [PORTFOLIO-ROADMAP.md](https://github.com/AmitChoudhary123/AmitChoudhary123/blob/main/PORTFOLIO-ROADMAP.md) for the refinement plan, quality gates, and pinned-repo strategy.
+
 ## Current open-source direction
 
 I am building toward a small ecosystem of enterprise AI assets:
